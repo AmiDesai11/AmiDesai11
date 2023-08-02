@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ami.desai1101@gmail.com**
 
-- ⚡ Fun fact **I love Thai food.**
+- ⚡ Fun fact **I love Thai food🍲 and cosmopolitans🍸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
