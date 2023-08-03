@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amidesai11&label=Profile%20views&color=0e75b6&style=flat" alt="amidesai11" /> </p>
 
-- 🔭 I’m currently working on Data Analytics and Machine Learning projects.
+- 🔭 I’m currently working on **Data Analytics and Machine Learning projects**
 
-- 🌱 I’m currently learning about **Neural Networks and Cloud Engineering.**
+- 🌱 I’m currently learning about **Neural Networks and Cloud Engineering**
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/AmiDesai11?tab=repositories](https://github.com/AmiDesai11?tab=repositories)
 
 - 📫 How to reach me **ami.desai1101@gmail.com**
 
-- ⚡ Fun fact **I love thai food🍲, chai☕️ and cosmopolitans🍸.**
+- ⚡ Fun fact **I love thai food🍲, chai☕️ and cosmopolitans🍸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
