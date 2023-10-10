@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/dior_cherie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dior_cherie_" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ami desai" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/ami-desai-2775381b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ami desai" height="30" width="40" /></a>
 <a href="https://instagram.com/ami_d_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ami_d_._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ami_desai1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ami_desai1101" height="30" width="40" /></a>
 </p>
